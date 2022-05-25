@@ -1,2 +1,2 @@
 # Learn
-my c learn mem
+my c learn notes
